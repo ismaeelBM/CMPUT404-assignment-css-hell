@@ -1,0 +1,60 @@
+body {
+	background-color: rgb(0, 0, 0);
+	margin: 0;
+}
+
+#mypic {
+	width: 10%;
+    border-color: rgb(17, 0, 255);
+    border-width: 15px;
+    border-style: solid;
+}
+
+hr {
+	width: 100%;
+	border-bottom-width: 0.05em;
+	border-top-color: rgb(255, 255, 255);
+	border-bottom-color: rgb(238, 238, 238);
+	text-align: center;
+	margin: 0;
+}
+#header {
+	background: linear-gradient(0.25turn, #ff0000, #2600ff);
+    padding-top: 20px;
+    top: 0;
+    font-size: 80%;
+    color: rgb(255, 94, 0);
+}
+#sidebar {
+	margin: 2em 2em 2em 2em;
+	padding: 0% 0 1% 2%;
+	float: right;
+	clear: left;
+	width: 20%;
+	border: 4px solid black;
+	background-color: #fd0000;
+	color: white;
+    box-shadow:  4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content-header {
+    text-align: center;
+}
+
+.main-bullet {
+    font-weight: bold;
+}
+
+.content {
+	color: rgb(53, 53, 53);
+	margin-left: 2em;
+    margin-top: 2em;
+    padding: 0.1em 2em 2em 0;
+    background-color: rgb(0, 17, 255);
+    width: 35em;
+}
+#footer {
+	color: white;
+	padding: 25px 0px 25px 0px;
+    background-color: blueviolet;
+}

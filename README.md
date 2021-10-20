@@ -21,4 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes made for Part 1:
 
+Changed color of background
+Used a serif font
+change colour of hyper links
+Centered images and gave them a border
+Gave a different colour to the image captions
+Made the headings bold
+Made the paragraphs oblique
+Gave different colours to hyperlinks in the base and hover form
